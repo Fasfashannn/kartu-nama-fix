@@ -33,4 +33,7 @@ footer  {
     footer  {
        text-align: center;
     }
+    .service {
+        font-size: 24px;
+    }
 }
