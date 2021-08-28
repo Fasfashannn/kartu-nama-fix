@@ -24,16 +24,19 @@ font-size: 14px;
 footer  {
     background-color: #009BDF;
 }
+.text-hero {
+    text-align: left;
+}
 
 /* BREAKPOINTS */
-@media (max-width: 767.98px) { 
-    .text-hero {
-        text-align: center;
-    }
+@media (max-width: 575.98px) { 
+   .text-hero   {
+       text-align: center;
+   }
+
     footer  {
        text-align: center;
     }
-    .service {
-        font-size: 24px;
+    
     }
-}
+
