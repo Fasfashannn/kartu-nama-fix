@@ -1,0 +1,41 @@
+html, body {
+    margin: 0;
+    padding: 0
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+#hero-section   {
+    background-color: #009BDF;
+    padding: 30px;
+    
+}
+
+.btn-cta {
+    border-radius: 5px;
+    background: #25586F;
+    border: none;
+    padding: 10px 18px;
+}
+
+.btn-cta:hover {
+    background-color: #DFA100;
+    color: white;
+}
+
+
+
+
+/*  BREAKPOINTS */
+@media (max-width: 767.98px) { 
+    .container-satu {
+        text-align: center;
+    }
+
+    .about-us    {
+        text-align: center;
+    }
+    
+ }
