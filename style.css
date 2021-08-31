@@ -13,6 +13,8 @@ body {
     
 }
 
+
+
 .btn-cta {
     border-radius: 5px;
     background: #25586F;
@@ -45,4 +47,14 @@ body {
         margin-top: 20px;
     }
     
+    .text-footer  {
+        padding: 13px ;
+        text-align: center;
+
+    }
+    
+    .container-satu h1 {
+        margin-top: 20px;
+
+    }
  }
