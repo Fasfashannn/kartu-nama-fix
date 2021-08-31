@@ -37,5 +37,12 @@ body {
     .about-us    {
         text-align: center;
     }
+
+    .visi-misi {
+        padding: 10px;
+    }
+    .mision {
+        margin-top: 20px;
+    }
     
  }
